@@ -1,0 +1,850 @@
+Cmp-Mod V01 Created by Cvpcb (2015-01-16 BZR 5376)-product   date = 02/04/2015 00:01:25
+
+BeginCmp
+TimeStamp = /54CEE505;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEE97D;
+Reference = D2;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEE9FA;
+Reference = D3;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEEA7F;
+Reference = D4;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEECB4;
+Reference = D5;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF321;
+Reference = D6;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF330;
+Reference = D7;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF33F;
+Reference = D8;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF34E;
+Reference = D9;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF35D;
+Reference = D10;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF506;
+Reference = D11;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF515;
+Reference = D12;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF524;
+Reference = D13;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF533;
+Reference = D14;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF542;
+Reference = D15;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF65F;
+Reference = D16;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF66E;
+Reference = D17;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF67D;
+Reference = D18;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF68C;
+Reference = D19;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF69B;
+Reference = D20;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF0CA8;
+Reference = D21;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF0CB7;
+Reference = D22;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF0CC6;
+Reference = D23;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF0CD5;
+Reference = D24;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF829B;
+Reference = D25;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF82AA;
+Reference = D26;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF82B9;
+Reference = D27;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF82C8;
+Reference = D28;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF8444;
+Reference = D29;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF8453;
+Reference = D30;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF8462;
+Reference = D31;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF8471;
+Reference = D32;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD6B2;
+Reference = D33;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD6C1;
+Reference = D34;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD6D0;
+Reference = D35;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD6DF;
+Reference = D36;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD6FD;
+Reference = D37;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD70C;
+Reference = D38;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD71B;
+Reference = D39;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD72A;
+Reference = D40;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF82D7;
+Reference = D41;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD748;
+Reference = D42;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD757;
+Reference = D43;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD766;
+Reference = D44;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD775;
+Reference = D45;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF8480;
+Reference = D46;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD793;
+Reference = D47;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD7A2;
+Reference = D48;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD7B1;
+Reference = D49;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD7C0;
+Reference = D50;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DDFE74;
+Reference = D51;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD7DE;
+Reference = D52;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD7ED;
+Reference = D53;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD7FC;
+Reference = D54;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD80B;
+Reference = D55;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD829;
+Reference = D56;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD838;
+Reference = D57;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD847;
+Reference = D58;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD874;
+Reference = D59;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD883;
+Reference = D60;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-35_SOD27_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEE424;
+Reference = SW0:0;
+ValeurCmp = TILDE;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF31B;
+Reference = SW0:1;
+ValeurCmp = 1;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF500;
+Reference = SW0:2;
+ValeurCmp = 2;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF659;
+Reference = SW0:3;
+ValeurCmp = 3;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF0CA2;
+Reference = SW0:4;
+ValeurCmp = 4;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF8295;
+Reference = SW0:5;
+ValeurCmp = 5;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF843E;
+Reference = SW0:6;
+ValeurCmp = 6;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD6AC;
+Reference = SW0:7;
+ValeurCmp = 7;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD6F7;
+Reference = SW0:8;
+ValeurCmp = 8;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD742;
+Reference = SW0:9;
+ValeurCmp = 9;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD78D;
+Reference = SW0:10;
+ValeurCmp = 10;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD7D8;
+Reference = SW0:11;
+ValeurCmp = -;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD823;
+Reference = SW0:12;
+ValeurCmp = =;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD86E;
+Reference = SW0:13;
+ValeurCmp = BACKSPACE;
+IdModule  = Keyboard:CHERRY_PCB_200H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEE977;
+Reference = SW1:0;
+ValeurCmp = TAB;
+IdModule  = Keyboard:CHERRY_PCB_150H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF32A;
+Reference = SW1:1;
+ValeurCmp = Q;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF50F;
+Reference = SW1:2;
+ValeurCmp = W;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF668;
+Reference = SW1:3;
+ValeurCmp = E;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF0CB1;
+Reference = SW1:4;
+ValeurCmp = R;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF82A4;
+Reference = SW1:5;
+ValeurCmp = T;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF844D;
+Reference = SW1:6;
+ValeurCmp = Y;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD6BB;
+Reference = SW1:7;
+ValeurCmp = U;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD706;
+Reference = SW1:8;
+ValeurCmp = I;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD751;
+Reference = SW1:9;
+ValeurCmp = O;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD79C;
+Reference = SW1:10;
+ValeurCmp = P;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD7E7;
+Reference = SW1:11;
+ValeurCmp = [;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD832;
+Reference = SW1:12;
+ValeurCmp = ];
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD87D;
+Reference = SW1:13;
+ValeurCmp = \;
+IdModule  = Keyboard:CHERRY_PCB_150H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEE9F4;
+Reference = SW2:0;
+ValeurCmp = CAP;
+IdModule  = Keyboard:CHERRY_PCB_175H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF339;
+Reference = SW2:1;
+ValeurCmp = A;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF51E;
+Reference = SW2:2;
+ValeurCmp = S;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF677;
+Reference = SW2:3;
+ValeurCmp = D;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF0CC0;
+Reference = SW2:4;
+ValeurCmp = F;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF82B3;
+Reference = SW2:5;
+ValeurCmp = G;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF845C;
+Reference = SW2:6;
+ValeurCmp = H;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD6CA;
+Reference = SW2:7;
+ValeurCmp = J;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD715;
+Reference = SW2:8;
+ValeurCmp = K;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD760;
+Reference = SW2:9;
+ValeurCmp = L;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD7AB;
+Reference = SW2:10;
+ValeurCmp = ;;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD7F6;
+Reference = SW2:11;
+ValeurCmp = ';
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD841;
+Reference = SW2:12;
+ValeurCmp = ENTER;
+IdModule  = Keyboard:CHERRY_PCB_225H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEEA79;
+Reference = SW3:0;
+ValeurCmp = SHIFT;
+IdModule  = Keyboard:CHERRY_PCB_200H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF348;
+Reference = SW3:1;
+ValeurCmp = Z;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF52D;
+Reference = SW3:2;
+ValeurCmp = X;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF686;
+Reference = SW3:3;
+ValeurCmp = C;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF0CCF;
+Reference = SW3:4;
+ValeurCmp = V;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF82C2;
+Reference = SW3:5;
+ValeurCmp = B;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF846B;
+Reference = SW3:6;
+ValeurCmp = N;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD6D9;
+Reference = SW3:7;
+ValeurCmp = M;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD724;
+Reference = SW3:8;
+ValeurCmp = ,;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD76F;
+Reference = SW3:9;
+ValeurCmp = .;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD7BA;
+Reference = SW3:10;
+ValeurCmp = /;
+IdModule  = Keyboard:CHERRY_PCB_100H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CFD805;
+Reference = SW3:11;
+ValeurCmp = RIGHT SHIFT;
+IdModule  = Keyboard:CHERRY_PCB_275H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEECAE;
+Reference = SW4:0;
+ValeurCmp = LEFT_CTRL;
+IdModule  = Keyboard:CHERRY_PCB_125H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF357;
+Reference = SW4:1;
+ValeurCmp = FN;
+IdModule  = Keyboard:CHERRY_PCB_125H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF53C;
+Reference = SW4:2;
+ValeurCmp = LEFT_ALT;
+IdModule  = Keyboard:CHERRY_PCB_125H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CEF695;
+Reference = SW4:7;
+ValeurCmp = SPACE;
+IdModule  = Keyboard:CHERRY_PCB_625H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF82D1;
+Reference = SW4:8;
+ValeurCmp = RIGHT_ALT;
+IdModule  = Keyboard:CHERRY_PCB_125H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54CF847A;
+Reference = SW4:9;
+ValeurCmp = RIGHT_FN;
+IdModule  = Keyboard:CHERRY_PCB_125H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54DDFE6E;
+Reference = SW4:10;
+ValeurCmp = RIGHT_CONTROL;
+IdModule  = Keyboard:CHERRY_PCB_125H;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D30953;
+Reference = U1;
+ValeurCmp = TEENSY2.0;
+IdModule  = Keyboard:TEENSY_2.0;
+EndCmp
+
+EndListe
